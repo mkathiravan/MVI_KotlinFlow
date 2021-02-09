@@ -44,3 +44,6 @@ As we know it has to create lots of objects for all the states. This makes it to
 Handling alert states might be challenging while we handle configuration changes. For example, if there is no internet we will show the snackbar, On configuration change, it shows the snackbar again as its the state of the intent. In terms of usability, this has to be handled.
 
 With this background, let’s create a small app with MVI
+
+
+![image](https://user-images.githubusercontent.com/39657409/107378503-0ad13c00-6b12-11eb-81b1-dc8250ad4067.png)
